@@ -76,7 +76,7 @@ El archivo limpio y transformado está disponible como `clientes_churn_limpio.cs
 ## 👨‍🏫 Autor
 
 **Wilfredo Rojas** – Instructor del programa One  
-**Rafael [Tu Apellido]** – Analista de datos participante del desafío
+**Rafael** – Analista de datos participante del desafío
 
 ---
 
